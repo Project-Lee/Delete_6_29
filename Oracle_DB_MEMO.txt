@@ -1,0 +1,14 @@
+프로젝트 참조하는 법
+
+하고자하는 프로젝트 우클릭 -> Build path -> configure build path 
+Libraries -> Add External Jars -> 밑에 파일경로 -> ojdbc6 넣기
+
+
+
+
+C:\app\Administrator\product\11.2.0\dbhome_2\jdbc\lib
+
+
+앞으로 데이터베이스 메소드 ,클래스들
+DriverManager 
+Class.forName
